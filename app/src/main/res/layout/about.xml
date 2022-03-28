@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_background">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/editTextAbout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="@string/kalkulator"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:importantForAutofill="no" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/editTextAbout2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ems="10"
+                android:text="@string/author"
+                android:textColor="#7986CB"
+                android:textSize="24sp"
+                android:textStyle="italic" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/editTextAbout3"
+                android:layout_width="360dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="none"
+                android:ems="10"
+                android:scrollHorizontally="false"
+                android:text="@string/aboutText"
+                android:textColor="#7986CB"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/editTextAbout4"
+                android:layout_width="360dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="none"
+                android:ems="10"
+                android:scrollHorizontally="false"
+                android:text="@string/important"
+                android:textColor="@color/red"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/editTextAbout5"
+                android:layout_width="360dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ellipsize="none"
+                android:ems="10"
+                android:scrollHorizontally="false"
+                android:text="@string/importantText"
+                android:textColor="@color/red"
+                android:textSize="24sp" />
+        </TableRow>
+
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

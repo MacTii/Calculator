@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/advanced_roudbtn.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/advanced_roundbtn_animation.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/animation_click.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/button.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/edit_text.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/gradient.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/roundbtn.xml" value="0.3005" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/roundbtn_animation.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/screen_background.xml" value="0.32" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/drawable/spinner.xml" value="0.31" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-land/activity_main.xml" value="0.3026934587430526" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-land/advanced_calc.xml" value="0.25" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-land/panel_main.xml" value="0.5453125" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-land/simple_calc.xml" value="0.22" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.27110582639714625" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-sw600dp/simple_calc.xml" value="0.11875" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-w1080dp-h2520dp-land/simple_calc.xml" value="0.25" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout-w1080dp-h2520dp/simple_calc.xml" value="0.35625" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/about.xml" value="0.25" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/advanced_calc.xml" value="0.25" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/options.xml" value="0.29243266353142366" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/panel_main.xml" value="0.29243266353142366" />
+        <entry key="..\:/Mateusz/PROGRAMOWANIE/AndroidStudio/Kalkulator/app/src/main/res/layout/simple_calc.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
